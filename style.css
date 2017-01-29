@@ -1,9 +1,10 @@
 #name{
-	color:red
+	
+	color:orange
 }
 h3{
-	color:blue
+	color:orange
 }
 body{
-	background-color:pink
+	 background-image: url("pic1.jpg")
 }
